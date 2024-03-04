@@ -1,0 +1,11 @@
+
+.Tilt{
+    background: rgb(238,151,189);
+  background: radial-gradient(circle, rgba(238,151,189,1) 0%, rgba(148,187,233,1) 100%);
+  border-radius: 50px;
+  margin-left: 20px;
+  margin-top: 0px ;
+  opacity:5;
+  
+    
+}
